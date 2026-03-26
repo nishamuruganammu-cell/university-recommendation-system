@@ -1,1 +1,32 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#eef3ff;
+}
 
+h1,h2{
+color:#1a237e;
+}
+
+button{
+padding:10px;
+margin:10px;
+background:#3949ab;
+color:white;
+border:none;
+border-radius:5px;
+}
+
+button:hover{
+background:#1a237e;
+}
+
+table{
+margin:auto;
+border-collapse:collapse;
+}
+
+td,th{
+border:1px solid black;
+padding:10px;
+}
